@@ -1,4 +1,4 @@
-# 🧠 AttributeSolver Streamlit App
+# 🧠 Data Fetcher App
 
 A Streamlit-based web app to analyze columns from uploaded CSV or Excel files.
 
