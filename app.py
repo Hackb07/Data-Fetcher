@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="AttributeSolver", layout="wide")
-st.title("📊 AttributeSolver - Attribute-Based Row Fetcher")
+st.set_page_config(page_title="DataFetcher", layout="wide")
+st.title("📊 DataFetcher - Condition Row Fetcher")
 
 uploaded_file = st.file_uploader("Upload CSV or Excel file", type=["csv", "xlsx"])
 if uploaded_file:
